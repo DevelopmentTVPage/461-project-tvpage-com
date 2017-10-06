@@ -1,0 +1,23 @@
+{
+    "title": "Testing Channels",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1507253252",
+    "date_modified": "1507310196",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "121885982",
+    "loginId": "1758991",
+    "entityType": "3",
+    "titleTextEncoded": "Testing-Channels",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}

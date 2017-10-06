@@ -1,0 +1,109 @@
+{
+    "pageNumber": 0,
+    "data": [
+        {
+            "id": "121885957",
+            "title": "TVPage. The Company.",
+            "date_created": "1402215043",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "TVPage, based in San Diego, California, is passionate about improving conversion from video, on a grand scale. We look forward to working with you to generate further interaction with your viewers, leading to higher retention rates and increased sales across all of your web properties.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/vIt_ghqPk-s\/maxresdefault.jpg",
+                "uploadDate": 1402215043,
+                "videoId": "vIt_ghqPk-s",
+                "title": "TVPage. The Company.",
+                "description": "TVPage, based in San Diego, California, is passionate about improving conversion from video, on a grand scale. We look forward to working with you to generate further interaction with your viewers, leading to higher retention rates and increased sales across all of your web properties.",
+                "author": "TVPage",
+                "mediaDuration": 225,
+                "prettyDuration": "00:03:45",
+                "views": "450"
+            },
+            "parentId": "121885982",
+            "url": "\/testing-channels\/tvpage-the-company\/121885982-121885957"
+        },
+        {
+            "id": "117416593",
+            "title": "Wulfpack",
+            "date_created": "1505165485",
+            "loginId": "1758991",
+            "tags": "Cool",
+            "description": "Est modiret arengo",
+            "asset": {
+                "sources": [
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/117416593\/46a4a\/1080p_media.mp4",
+                        "quality": "1080p",
+                        "mime": "video\/mp4",
+                        "width": 724,
+                        "height": 408
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/117416593\/46a4a\/720p_media.mp4",
+                        "quality": "720p",
+                        "mime": "video\/mp4",
+                        "width": 724,
+                        "height": 408
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/117416593\/46a4a\/480p_media.mp4",
+                        "quality": "480p",
+                        "mime": "video\/mp4",
+                        "width": 724,
+                        "height": 408
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/117416593\/46a4a\/360p_media.mp4",
+                        "quality": "360p",
+                        "mime": "video\/mp4",
+                        "width": 640,
+                        "height": 360
+                    },
+                    {
+                        "file": "\/\/v.tvpage.com\/1758991\/117416593\/46a4a\/240p_media.mp4",
+                        "quality": "240p",
+                        "mime": "video\/mp4",
+                        "width": 320,
+                        "height": 180
+                    }
+                ],
+                "videoMeta": {
+                    "duration": "355",
+                    "width": 724,
+                    "height": 408
+                },
+                "mediaDuration": "355",
+                "prettyDuration": "00:05:55",
+                "thumbnailUrl": "\/\/v.tvpage.com\/1758991\/117416593\/46a4a\/thumb-12992263-00002.jpg",
+                "type": "mp4",
+                "dashUrl": "\/\/v.tvpage.com\/1758991\/117416593\/46a4a\/media.mpd",
+                "hlsUrl": "\/\/v.tvpage.com\/1758991\/117416593\/46a4a\/media.m3u8"
+            },
+            "parentId": "121885982",
+            "url": "\/testing-channels\/wulfpack\/121885982-117416593"
+        },
+        {
+            "id": "117414325",
+            "title": "Verengo Solar",
+            "date_created": "1474565900",
+            "loginId": "1758991",
+            "tags": "",
+            "description": "",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/EqVdYyfn8XI\/sddefault.jpg",
+                "uploadDate": 1474565900,
+                "videoId": "EqVdYyfn8XI",
+                "title": "Verengo Solar",
+                "description": "Verengo Solar. A Different Kind of Power Company",
+                "author": "Official Launch DRTV",
+                "mediaDuration": 85,
+                "prettyDuration": "00:01:25",
+                "views": "55"
+            },
+            "parentId": "121885982",
+            "url": "\/testing-channels\/verengo-solar\/121885982-117414325"
+        }
+    ]
+}
